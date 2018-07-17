@@ -1,0 +1,12 @@
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\bin\Debug\netcoreapp2.0\Identity.deps.json
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\bin\Debug\netcoreapp2.0\Identity.runtimeconfig.json
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\bin\Debug\netcoreapp2.0\Identity.runtimeconfig.dev.json
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\bin\Debug\netcoreapp2.0\Identity.dll
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\bin\Debug\netcoreapp2.0\Identity.pdb
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\obj\Debug\netcoreapp2.0\Identity.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\obj\Debug\netcoreapp2.0\Identity.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\obj\Debug\netcoreapp2.0\Identity.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\obj\Debug\netcoreapp2.0\Identity.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\obj\Debug\netcoreapp2.0\Identity.dll
+C:\Users\Guilherme\Documents\Udemy\NetCore\Identity\obj\Debug\netcoreapp2.0\Identity.pdb
